@@ -8,7 +8,7 @@ import com.websystique.springboot.configuration.JpaConfiguration;
 
 
 /**
- * @author Admin
+ * @author Admin Admin
  *
  */
 @Import(JpaConfiguration.class)
