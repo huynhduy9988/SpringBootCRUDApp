@@ -8,7 +8,7 @@ import com.websystique.springboot.configuration.JpaConfiguration;
 
 
 /**
- * @author Admin Admin Admin
+ * @author Admin
  *
  */
 @Import(JpaConfiguration.class)
@@ -19,4 +19,5 @@ public class SpringBootCRUDApp {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCRUDApp.class, args);
 	}
+	
 }
