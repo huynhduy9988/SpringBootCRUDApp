@@ -1,5 +1,5 @@
 package com.websystique.springboot.util;
 
-public class TestA1 {
+public class TestC {
 
 }
