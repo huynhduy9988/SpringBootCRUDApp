@@ -10,7 +10,7 @@ public class AppController {
 
 	@RequestMapping("/")
 	String home(ModelMap modal) {
-		modal.addAttribute("title","CRUD 5th Example");
+		modal.addAttribute("title","CRUD 6th Example");
 		return "index";
 	}
 
